@@ -1,0 +1,13 @@
+body{
+    background-color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img.fried-rice{
+    height: 400px;
+    width: auto;
+}
+img.chow-mein{
+    height: 400px;
+    width: auto;
+}

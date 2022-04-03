@@ -2,7 +2,9 @@ body{
     background-color: peachpuff;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 img.fried-rice{
     height: 400px;
     width: auto;
